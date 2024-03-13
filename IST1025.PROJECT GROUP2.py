@@ -1,5 +1,5 @@
 """IST1025 PROJECT"""
-"""GROUP 2 """
+"""PYTHON TO-DO-LIST """
 
 #importing python libraries for the program
 import json
