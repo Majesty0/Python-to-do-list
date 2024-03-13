@@ -1,0 +1,14 @@
+""" INDIVIDUAL ASSIGNMENT IST1025-A"""
+# A python class with attributes "name" and "age" 
+class Person:
+    def __init__(him, name, age):
+        him.name = name
+        him.age = age
+# Method that returns the name of the person
+    def get_name(him):
+        return him.name
+    
+# Created instance of the Class Person
+his_name = Person("Martin Kyeremateng", 24)
+# Prints the name of the person using the __str__ method 
+print("Name:", his_name.get_name())
